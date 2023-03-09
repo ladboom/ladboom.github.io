@@ -61,7 +61,9 @@ A highly motivated university student possessing both individual and team-based 
 #### EDUCATION
 
 University of Manitoba
-Winnipeg,Manitoba
+
+Winnipeg, Manitoba
+
 Bachelor of Science: Computer Science
 
 #### References
