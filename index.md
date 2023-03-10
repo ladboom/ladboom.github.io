@@ -12,17 +12,17 @@ A highly motivated university student possessing both individual and team-based 
 ### SKILLS
 
 - Experienced Programmer (C# / C++, JAVA, python)
-- strong communication
-- disciplined
-- trust building charisma
-- well organized
-- multilingual
-- merchandizing
-- customer satisfaction
+- Strong communication
+- Disciplined
+- Trust building charisma
+- Well organized
+- Multilingual
+- Merchandizing
+- Customer satisfaction
 
 ### WORK EXPERIENCE
 
-**TJX (MARSHALL'S & HOMESENSE)**_Sales associate | 2021_
+**TJX (MARSHALL'S & HOMESENSE)**_Sales associate  2021_
 
 - Cashier
 - Merchandiser
@@ -30,12 +30,12 @@ A highly motivated university student possessing both individual and team-based 
 - Door to Floor
 - Maintenance
 
-**MICROTRAFFIC INC.** _Software operator/ Data Entry | 2019_
+**MICROTRAFFIC INC.** _Software operator/ Data Entry  2019_
 
 - Annotation of road vehicles
 - Data input based on monitored footage
 
-**JAAGO FOUNDATION** _Intern | 2017_
+**JAAGO FOUNDATION** _Intern  2017_
 
 - Updating client information
 - PR publication
@@ -43,17 +43,17 @@ A highly motivated university student possessing both individual and team-based 
 
 ### VOLUNTEER EXPERIENCE
 
-**SCIENCE RENDEZVOUS** _| 2019_
+**SCIENCE RENDEZVOUS** _2019_
 
 - Engaging children to the world of science
 - Catering
 
-**INTERNATIONAL COLLEGE OF MANITOBA ORIENTATION** _| 2019_
+**INTERNATIONAL COLLEGE OF MANITOBA ORIENTATION** _2019_
 
 - Tour Guide
 - Catering
 
-**JAAGO IFTAAR PARTY** _| 2017_
+**JAAGO IFTAAR PARTY** _2017_
 
 - Catering
 - Greeter
