@@ -4,7 +4,7 @@
 
 In today's digital age, having an online presence has become essential for professional networking and job hunting. One effective way to showcase your skills and experience is to host your resume on a website. In this tutorial, you will be learn how to format and host your resume on Github pages.
 
-####Formatting Your Resume
+###Formatting Your Resume
 
 Before hosting your resume on Github pages, you need to format it to make it presentable. For formatting, a lightweight markup language can be used, such as Markdown. Markdown is a simple and effective way to format your resume, allowing you to create headings, lists, bold and italic text, and more with just a few keystrokes. Click here: [**_MarkdownTutorial_**](https://www.markdowntutorial.com/), to get started with a quick and simple markdown tutorial.
 
@@ -16,7 +16,7 @@ Here are some basic guidelines to ensure your resume looks professional and is e
 4. Keep the font consistent throughout your resume.
 5. Use white space effectively to make your resume easy on the eyes.
 
-####Hosting Your Resume on Github Pages
+###Hosting Your Resume on Github Pages
 
 GitHub Pages is a free web hosting service offered by GitHub that allows users to create and host static websites directly from their GitHub repositories
 
@@ -44,7 +44,7 @@ For new users, follow these steps to host your resume on Github pages:
 Here is how a simple resume hosted in github pages looks like (shown as a GIF):
 #insert GIF here
 
-####More resources
+###More resources
 
 - [Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
@@ -52,12 +52,13 @@ Here is how a simple resume hosted in github pages looks like (shown as a GIF):
 - [Matias' github page(awesome-readme)](https://github.com/matiassingers/awesome-readme)
 - [Resume format Tips](https://careercenter.georgetown.edu/major-career-guides/resumes-cover-letters/resume-formatting-tips/)
 
-####Authors and Acknowledgement
+###Authors and Acknowledgement
 
 - Andrew Etter - Articulates principles on how a documentation should be made.
 - Matias Singers - Provided READMEs that had contents of images, screenshots, GIFs, text formatting, etc.
 
-## ####FAQs
+###FAQs
+----
 
 Q1. **What is GitHub Pages?**
 
